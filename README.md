@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">Senior Developer | XR Engineer | Data Analyst | System Design Enthusiast</h3>
+<h3 align="center">Data Analyst | Software Developer | XR Engineer | Front End Devloper</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Dev+%7C+XR+Engineer+%7C+Data+Analyst;Clean+Code+%7C+System+Design+%7C+AI%2FML+Nerd" />
@@ -15,8 +15,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Building **AR Chemistry Labs** using **Unity + ManoMotion SDK**
 - 📊 Data Analyst skilled in Python, SQL & Power BI
+- 🔭 Building **AR Chemistry Labs** using **Unity + ManoMotion SDK**
 - 🧪 Merging XR with AI to create immersive digital experiences
 - 📂 Visit my portfolio: [shubhmrj.pythonanywhere.com](https://shubhmrj.pythonanywhere.com)
 
@@ -27,11 +27,11 @@
 | Domain         | Tools & Frameworks |
 |----------------|--------------------|
 | 💻 Languages   | Python, JavaScript, C#, SQL |
-| 🌐 Web         | React, Node.js, Flask, Django |
+| 🌐 Web         | HTML, CSS, JS, Flask, Django |
 | 🧪 XR & Unity  | Unity, ManoMotion SDK |
 | 📊 Data & ML   | pandas, NumPy, Power BI, scikit-learn |
-| ☁️ Cloud       | AWS, Firebase, Heroku |
-| 🛠 Tools       | Git, Docker, VS Code, Postman |
+| ☁️ Cloud       | AWS, Firebase |
+| 🛠 Tools       | Git, Docker, VS Code |
 
 ---
 
