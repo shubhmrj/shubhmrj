@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">Senior Developer | XR Enthusiast | Full-Stack + AI Engineer</h3>
+<h3 align="center">Data Analytics | Software Developer | XR Enthusiast | Full-Stack + AI Engineer</h3>
 
 <p align="center">
   <a href="https://shubhmrj.pythonanywhere.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2300b894?style=flat&logo=Google-Chrome&logoColor=white"/></a>
