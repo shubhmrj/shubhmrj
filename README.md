@@ -14,7 +14,8 @@
 ---
 
 ## 👨‍💻 About Me
-<img align="right" src="https://cdn.pixabay.com/photo/2017/08/30/07/52/business-2697954_1280.jpg" width="280" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
 
 - 📊 Data Analyst skilled in Python, SQL & Power BI
 - 🔭 Building **AR Chemistry Labs** using **Unity + ManoMotion SDK**
@@ -85,10 +86,10 @@ Full-stack responsive dev portfolio
 
 ## 🗓️ Timeline
 
-- 🧪 2025: XR Chemistry app (Unity + ManoMotion)  
+- 🧪 Ongoing: XR Chemistry app (Unity + ManoMotion)  
 - 📊 2024: Analytics dashboards with Power BI  
-- 🌐 2023: Portfolio + web deployment  
-- 🎓 2020–2025: B.Tech in Computer Science  
+- 🌐 2025: Portfolio + web deployment  
+- 🎓 2022–2026: B.Tech in Computer Science  
 
 ---
 
