@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">Data Analyst | Software Developer | XR Devloper | Front End Devloper</h3>
-
+<!-- <h3 align="center">Data Analyst | Software Developer | XR Devloper | Front End Devloper</h3>
+ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Dev+%7C+XR+Engineer+%7C+Data+Analyst;Clean+Code+%7C+System+Design+%7C+AI%2FML+Nerd" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Dev+%7C+XR+Engineer+%7C+Data+Analyst;Clean+Code+%7C+System+Design+%7C+AI%2FML+Nerd" />
 </p>
 
 <p align="center">
@@ -14,6 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
+<img align="right" src="https://cdn.pixabay.com/photo/2017/08/30/07/52/business-2697954_1280.jpg" width="280" />
 
 - 📊 Data Analyst skilled in Python, SQL & Power BI
 - 🔭 Building **AR Chemistry Labs** using **Unity + ManoMotion SDK**
