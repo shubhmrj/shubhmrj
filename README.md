@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
-<!-- <h3 align="center">Data Analyst | Software Developer | XR Devloper | Front End Devloper</h3>
- -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Dev+%7C+XR+Engineer+%7C+Data+Analyst;Clean+Code+%7C+System+Design+%7C+AI%2FML+Nerd" />
-</p>
+<h3 align="center"> Data Analyst | Software Engineer</h3>
+
 
 <p align="center">
   <a href="https://shubhmrj.pythonanywhere.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2300b894?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
