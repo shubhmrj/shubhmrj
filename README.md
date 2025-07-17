@@ -19,7 +19,7 @@
 ---
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Profile%20Views-521-F9A7B0?style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shubhmrj&style=flat-square&color=F9A7B0" alt="Profile views" />
 </p>
 
 ## 👨‍💻 About Me
